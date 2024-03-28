@@ -32,10 +32,8 @@
 <img src="img/googlecloud-original.svg" width="40" height="40" alt="js"><img src="img/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="js"><img src="img/digitalocean-original.svg" width="40" height="40" alt="js"><img src="img/firebase-original.svg" width="40" height="40" alt="js">
 
 #### Tools
-<img src="img/kubernetes-original.svg" width="40" height="40" alt="js"><img src="img/docker-original.svg" width="40" height="40" alt="js">
+<img src="img/kubernetes-original.svg" width="40" height="40" alt="js"><img src="img/docker-original.svg" width="40" height="40" alt="js"><img src="img/LoRaWAN_Logo.svg" width="90" height="40" alt="js"><img src="img/raspberrypi-original.svg" width="40" height="40" alt="js">
 
-#### Hardware
-<img src="img/LoRaWAN_Logo.svg" width="90" height="40" alt="js"><img src="img/raspberrypi-original.svg" width="40" height="40" alt="js">
 
 #### Design
 <img src="img/figma.svg" width="40" height="40" alt="js"><img src="img/photoshop-original.svg" width="40" height="40" alt="js"><img src="img/premierepro-original.svg" width="40" height="40" alt="js"><img src="img/icons8-fl-studio.svg" width="40" height="40" alt="js"><img src="img/abletonlive-svgrepo-com.svg" width="40" height="40" alt="js">
