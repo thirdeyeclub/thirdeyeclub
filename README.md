@@ -8,7 +8,7 @@
 
 >🏹 *Seven years of web development and digital marketing expertise.*
 
->🧠 I am currently a Senior Fullstack Developer at [Impairment Science, Inc](https://www.impairmentscience.com/) where the neuroscience and code met.
+>🧠 I am currently a Senior Fullstack Developer at [Impairment Science, Inc](https://www.impairmentscience.com/) where neuroscience and code met.
 
 >🚀 I am currently writing smart contracts for the Solana ecosystem.
 
