@@ -4,15 +4,22 @@
 
 >🔑 An expert in Node & Vue
 
->🔧 *Casting commands into consoles since 2009.*
+>🔧 Casting commands into consoles since 2009.
 
->🏹 *Seven years of web development and digital marketing expertise.*
+>🏹 Seven years of web development and digital marketing expertise.
 
 >🧠 I am currently a Senior Fullstack Developer at [Impairment Science, Inc](https://www.impairmentscience.com/) where neuroscience and code met.
 
 >🚀 I am currently writing smart contracts for the Solana ecosystem.
 
 >👋 Ask me about human consciousness, emerging markets, or building products in cyberspace.
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/taylorsblount/)
+
+blount3taylor@gmail.com
+
+streetsparrow@protonmail.com (secure)
 
 ## TOOLS & LANGUAGES
 
@@ -38,9 +45,4 @@
 #### Design
 <img src="img/figma.svg" width="40" height="40" alt="js"><img src="img/photoshop-original.svg" width="40" height="40" alt="js"><img src="img/premierepro-original.svg" width="40" height="40" alt="js"><img src="img/icons8-fl-studio.svg" width="40" height="40" alt="js"><img src="img/abletonlive-svgrepo-com.svg" width="40" height="40" alt="js">
 
-## Contact
-[LinkedIn](https://www.linkedin.com/in/taylorsblount/)
 
-blount3taylor@gmail.com
-
-streetsparrow@protonmail.com
