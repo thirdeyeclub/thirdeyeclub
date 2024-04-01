@@ -14,12 +14,13 @@
 
 >👋 Ask me about human consciousness, emerging markets, or building products in cyberspace.
 
-## Contact
-[LinkedIn](https://www.linkedin.com/in/taylorsblount/)
+------
 
-blount3taylor@gmail.com
+## Hire me on [Upwork](https://www.upwork.com/freelancers/~010ab30327932a1fcc)
 
-streetsparrow@protonmail.com (secure)
+🌟 *_$100k+ earned!_* 🌟
+
+🌟 *_100% Job success rate!_* 🌟
 
 ## TOOLS & LANGUAGES
 
@@ -44,5 +45,12 @@ streetsparrow@protonmail.com (secure)
 
 #### Design
 <img src="img/figma.svg" width="40" height="40" alt="js"><img src="img/photoshop-original.svg" width="40" height="40" alt="js"><img src="img/premierepro-original.svg" width="40" height="40" alt="js"><img src="img/icons8-fl-studio.svg" width="40" height="40" alt="js"><img src="img/abletonlive-svgrepo-com.svg" width="40" height="40" alt="js">
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/taylorsblount/)
+
+blount3taylor@gmail.com
+
+streetsparrow@protonmail.com (secure)
 
 
