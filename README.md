@@ -1,16 +1,16 @@
 
 
->🦀 My name is Taylor.
+> 🦀 My name is Taylor.
 
->🔑 An expert in Node & Vue
+> 🔑 An expert in Node & Vue
 
->🔧 Casting commands into consoles since 2009.
+> 🔧 Casting commands into consoles since 2009.
 
->🏹 Seven years of web development and digital marketing expertise.
+> 🏹 Seven years of web development and digital marketing expertise.
 
->🧠 I am currently a Senior Fullstack Developer at [Impairment Science, Inc](https://www.impairmentscience.com/) where neuroscience and code met.
+> 🖌️ I am currently a Senior Fullstack Developer at [Impairment Science, Inc](https://www.impairmentscience.com/) where neuroscience and code met.
 
->👋 Ask me about human consciousness, emerging markets, or building products in cyberspace.
+> 👋 Ask me about human consciousness, emerging markets, or building products in cyberspace.
 
 ------
 
