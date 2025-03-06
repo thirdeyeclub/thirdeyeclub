@@ -6,7 +6,7 @@
 
 > 🔧 Casting commands into consoles since 2009.
 
-> 🏹 Seven years of web development and digital marketing expertise.
+> 🏹 Ten years of web development and digital marketing expertise.
 
 > 🖌️ I am currently a Senior Fullstack Developer at [Impairment Science, Inc](https://www.impairmentscience.com/) where neuroscience and code met.
 
