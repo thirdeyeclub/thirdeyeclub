@@ -1,27 +1,22 @@
 
 ![nice to met you](https://github.com/user-attachments/assets/344aefa8-507e-4ac3-b854-a788e589ccfc)
 
-> 🦀 My name is Taylor.
 
-> 🔑 An expert in Node & Vue
+### > 🦀 My name is Taylor.
 
-> 🔧 Casting commands into consoles since 2009.
+### > 🔑 An expert in Node & Vue
 
-> 🏹 Ten years of web development and digital marketing expertise.
+### > 🔧 Casting commands into consoles since 2009.
 
-> 🖌️ I am currently a Senior Fullstack Developer at [Impairment Science, Inc](https://www.impairmentscience.com/) where neuroscience and code met.
+### > 🏹 Ten years of web development and digital marketing expertise.
 
-> 👋 Ask me about human consciousness, emerging markets, or building products in cyberspace.
+### > 🖌️ I am currently a Senior Fullstack Developer at [Impairment Science, Inc](https://www.impairmentscience.com/) where neuroscience and code met.
 
-> taylor3blount+git2me@gmail.com
+### > 👋 Ask me about human consciousness, emerging markets, or building products in cyberspace.
+
+## > taylor3blount+git2me@gmail.com
 
 ------
-
-## Hire me on [Upwork](https://www.upwork.com/freelancers/~010ab30327932a1fcc)
-
-🌟 *_$100k+ earned!_* 🌟
-
-🌟 *_100% Job success rate!_* 🌟
 
 ## TOOLS & LANGUAGES
 
@@ -46,6 +41,13 @@
 
 #### Design
 <img src="img/figma.svg" width="40" height="40" alt="js"><img src="img/photoshop-original.svg" width="40" height="40" alt="js"><img src="img/premierepro-original.svg" width="40" height="40" alt="js"><img src="img/icons8-fl-studio.svg" width="40" height="40" alt="js"><img src="img/abletonlive-svgrepo-com.svg" width="40" height="40" alt="js">
+
+# Hire me on [Upwork](https://www.upwork.com/freelancers/~010ab30327932a1fcc)
+
+🌟 *_$100k+ earned!_* 🌟
+🌟 *_100% Job success rate!_* 🌟
+🌟 *_Limited time offer!_* 🌟
+🌟 *_Money Back Guarantee!_* 🌟
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/taylorsblount/)
