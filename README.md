@@ -4,7 +4,7 @@
 
 ### > 🦀 My name is Taylor.
 
-### > 🔑 An expert in Node & Vue
+### > 🔑 I am expert in Javascript & Python and have worked for world class start ups.
 
 ### > 🔧 Casting commands into consoles since 2009.
 
