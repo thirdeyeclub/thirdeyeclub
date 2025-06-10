@@ -49,8 +49,6 @@
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/taylorsblount/)
 
-blount3taylor@gmail.com
-
 streetsparrow@protonmail.com (secure)
 
 
