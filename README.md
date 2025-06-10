@@ -1,4 +1,5 @@
 
+![nice to met you](https://github.com/user-attachments/assets/344aefa8-507e-4ac3-b854-a788e589ccfc)
 
 > 🦀 My name is Taylor.
 
