@@ -12,7 +12,7 @@
 
 > 👋 Ask me about human consciousness, emerging markets, or building products in cyberspace.
 
-> taylor3blount+githubcontact@gmail.com
+> taylor3blount+git2me@gmail.com
 
 ------
 
