@@ -12,6 +12,8 @@
 
 > 👋 Ask me about human consciousness, emerging markets, or building products in cyberspace.
 
+> taylor3blount+githubcontact@gmail.com
+
 ------
 
 ## Hire me on [Upwork](https://www.upwork.com/freelancers/~010ab30327932a1fcc)
