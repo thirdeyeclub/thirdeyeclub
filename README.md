@@ -4,7 +4,7 @@
 
 ### > 🔑 I am expert in Javascript & Python.
 
-### > 🔧 Casting commands into consoles since 2009, when I was just a child making bots on runescape.
+### > 🔧 Casting commands into consoles since 2009.
 
 ### > 🏹 Ten years of web development, finance and digital marketing expertise.
 
