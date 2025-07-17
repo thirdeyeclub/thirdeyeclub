@@ -2,13 +2,11 @@
 ![nice to met you](https://github.com/user-attachments/assets/344aefa8-507e-4ac3-b854-a788e589ccfc)
 
 
-### > 🦀 My name is Taylor.
-
 ### > 🔑 I am expert in Javascript & Python.
 
-### > 🔧 Casting commands into consoles since 2009.
+### > 🔧 Casting commands into consoles since 2009, when I was just a child making bots on runescape.
 
-### > 🏹 Ten years of web development and digital marketing expertise.
+### > 🏹 Ten years of web development, finance and digital marketing expertise.
 
 ### > 🖌️ I am currently a Senior Fullstack Developer at [Impairment Science, Inc](https://www.impairmentscience.com/) where neuroscience and code met.
 
