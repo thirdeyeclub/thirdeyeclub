@@ -1,11 +1,11 @@
 
 ### Hello my name is Taylor
-### > 🔑 I am expert in Javascript & Python.
-### > 🔧 Casting commands into consoles since 2009.
-### > 🏹 Ten years of web development, finance and digital marketing expertise.
-### > 🖌️ I am currently a Senior Fullstack Developer at [Impairment Science, Inc](https://www.impairmentscience.com/) where neuroscience and code met.
-### > 👋 Ask me about human consciousness, emerging markets, or building products in cyberspace.
-## > Contact: taylor3blount+git2me@gmail.com
+### 🔑 I am expert in Javascript & Python.
+### 🔧 Casting commands into consoles since 2009.
+### 🏹 Ten years of web development, finance and digital marketing expertise.
+### 🖌️ I am currently a Senior Fullstack Developer at [Impairment Science, Inc](https://www.impairmentscience.com/) where neuroscience and code met.
+### 👋 Ask me about human consciousness, emerging markets, or building products in cyberspace.
+## Contact: taylor3blount+git2me@gmail.com
 
 ------
 
