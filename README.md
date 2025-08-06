@@ -1,18 +1,11 @@
 
-![nice to met you](https://github.com/user-attachments/assets/344aefa8-507e-4ac3-b854-a788e589ccfc)
-
-
+### Hello my name is Taylor
 ### > 🔑 I am expert in Javascript & Python.
-
 ### > 🔧 Casting commands into consoles since 2009.
-
 ### > 🏹 Ten years of web development, finance and digital marketing expertise.
-
 ### > 🖌️ I am currently a Senior Fullstack Developer at [Impairment Science, Inc](https://www.impairmentscience.com/) where neuroscience and code met.
-
 ### > 👋 Ask me about human consciousness, emerging markets, or building products in cyberspace.
-
-## > taylor3blount+git2me@gmail.com
+## > Contact: taylor3blount+git2me@gmail.com
 
 ------
 
